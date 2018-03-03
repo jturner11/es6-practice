@@ -1,0 +1,23 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jturner11/es6-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jturner11/es6-practice/issues"
+  },
+  "homepage": "https://github.com/jturner11/es6-practice#readme",
+  "devDependencies": {
+    "webpack": "^4.0.1"
+  }
+}
