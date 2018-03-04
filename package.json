@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/jturner11/es6-practice#readme",
   "devDependencies": {
-    "webpack": "^4.0.1"
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^3.1.0"
   }
 }
